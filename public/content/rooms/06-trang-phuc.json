@@ -1,0 +1,56 @@
+{
+  "id": "06-trang-phuc",
+  "slug": "trang-phuc",
+  "order": 6,
+  "name": { "vi": "Trang phục", "mnong": "Trang phục" },
+  "intro": {
+    "vi": "Trang phục truyền thống là một phần quan trọng trong đời sống văn hóa của đồng bào dân tộc M’nông. Không chỉ đáp ứng nhu cầu sinh hoạt hằng ngày, trang phục còn thể hiện nét đẹp thẩm mỹ, sự khéo léo và bản sắc riêng của cộng đồng.",
+    "mnong": "Trang phục truyền thống là một phần quan trọng trong đời sống văn hóa của đồng bào dân tộc M’nông. Không chỉ đáp ứng nhu cầu sinh hoạt hằng ngày, trang phục còn thể hiện nét đẹp thẩm mỹ, sự khéo léo và bản sắc riêng của cộng đồng."
+  },
+  "seo": {
+    "title": "Trang phục của người M'Nông – Triển lãm số văn hóa",
+    "description": "Trang phục truyền thống M'Nông: ảnh, video, giới thiệu song ngữ và góc mặc thử trang phục để chụp ảnh lưu niệm.",
+    "image": "/media/share/trang-phuc.jpg"
+  },
+  "exhibits": [
+    {
+      "id": "gioi-thieu",
+      "type": "board",
+      "position": { "wall": "left", "slot": 0 },
+      "title": { "vi": "Giới thiệu trang phục", "mnong": "Giới thiệu trang phục" },
+      "body": {
+        "vi": "Thông điệp: Sắc màu thổ cẩm – Gìn giữ nét đẹp truyền thống.\n\nTrang phục truyền thống là một phần quan trọng trong đời sống văn hóa của đồng bào dân tộc M’nông. Không chỉ đáp ứng nhu cầu sinh hoạt hằng ngày, trang phục còn thể hiện nét đẹp thẩm mỹ, sự khéo léo và bản sắc riêng của cộng đồng.\n\nTrang phục truyền thống của người M’nông thường gắn liền với chất liệu vải dệt thủ công, trong đó nổi bật là những tấm thổ cẩm với các hoa văn và cách phối màu đặc trưng. Những họa tiết được tạo nên từ đôi bàn tay khéo léo của người dệt, thể hiện sự sáng tạo và tình yêu đối với văn hóa dân tộc.\n\nTrang phục của nam giới và nữ giới có những đặc điểm riêng, phù hợp với sinh hoạt và tập quán của cộng đồng. Bên cạnh trang phục, các phụ kiện truyền thống cũng góp phần tạo nên vẻ đẹp hài hòa và nét đặc trưng trong cách ăn mặc.\n\nTrong các dịp lễ hội, sinh hoạt cộng đồng và sự kiện quan trọng, trang phục truyền thống càng có ý nghĩa đặc biệt. Đây không chỉ là trang phục để mặc mà còn là biểu tượng của niềm tự hào, sự gắn bó với cội nguồn và ý thức gìn giữ bản sắc dân tộc.\n\nNgày nay, trước những thay đổi của đời sống hiện đại, việc bảo tồn nghề dệt, lưu giữ hoa văn và khuyến khích thế hệ trẻ tìm hiểu, sử dụng trang phục truyền thống là điều rất cần thiết.\n\nMỗi tấm thổ cẩm là một nét đẹp văn hóa – Mỗi hoa văn là một dấu ấn bản sắc M’nông.",
+        "mnong": "Thông điệp: Sắc màu thổ cẩm – Gìn giữ nét đẹp truyền thống.\n\nTrang phục truyền thống là một phần quan trọng trong đời sống văn hóa của đồng bào dân tộc M’nông. Không chỉ đáp ứng nhu cầu sinh hoạt hằng ngày, trang phục còn thể hiện nét đẹp thẩm mỹ, sự khéo léo và bản sắc riêng của cộng đồng.\n\nTrang phục truyền thống của người M’nông thường gắn liền với chất liệu vải dệt thủ công, trong đó nổi bật là những tấm thổ cẩm với các hoa văn và cách phối màu đặc trưng. Những họa tiết được tạo nên từ đôi bàn tay khéo léo của người dệt, thể hiện sự sáng tạo và tình yêu đối với văn hóa dân tộc.\n\nTrang phục của nam giới và nữ giới có những đặc điểm riêng, phù hợp với sinh hoạt và tập quán của cộng đồng. Bên cạnh trang phục, các phụ kiện truyền thống cũng góp phần tạo nên vẻ đẹp hài hòa và nét đặc trưng trong cách ăn mặc.\n\nTrong các dịp lễ hội, sinh hoạt cộng đồng và sự kiện quan trọng, trang phục truyền thống càng có ý nghĩa đặc biệt. Đây không chỉ là trang phục để mặc mà còn là biểu tượng của niềm tự hào, sự gắn bó với cội nguồn và ý thức gìn giữ bản sắc dân tộc.\n\nNgày nay, trước những thay đổi của đời sống hiện đại, việc bảo tồn nghề dệt, lưu giữ hoa văn và khuyến khích thế hệ trẻ tìm hiểu, sử dụng trang phục truyền thống là điều rất cần thiết.\n\nMỗi tấm thổ cẩm là một nét đẹp văn hóa – Mỗi hoa văn là một dấu ấn bản sắc M’nông."
+      }
+    },
+    {
+      "id": "goc-chup-anh",
+      "type": "costume",
+      "position": { "wall": "left", "slot": 1 },
+      "title": { "vi": "Mặc thử trang phục", "mnong": "Mặc thử trang phục" },
+      "costumes": [
+        { "name": { "vi": "Trang phục nam", "mnong": "Trang phục nam" }, "overlay": "/media/trang-phuc/nam.png", "thumb": "/media/trang-phuc/nam-nho.jpg" },
+        { "name": { "vi": "Trang phục nữ", "mnong": "Trang phục nữ" }, "overlay": "/media/trang-phuc/nu.png", "thumb": "/media/trang-phuc/nu-nho.jpg" }
+      ]
+    },
+    {
+      "id": "video-trang-phuc",
+      "type": "video",
+      "position": { "wall": "right", "slot": 0 },
+      "title": { "vi": "Video trang phục", "mnong": "Video trang phục" },
+      "youtubeId": "eWIFxO0Jle4"
+    },
+    {
+      "id": "anh-trang-phuc",
+      "type": "gallery",
+      "position": { "wall": "right", "slot": 1 },
+      "title": { "vi": "Ảnh trang phục", "mnong": "Ảnh trang phục" },
+      "images": [
+        { "src": "/media/trang-phuc/anh-1.jpg", "alt": { "vi": "Ảnh trang phục 1", "mnong": "Ảnh trang phục 1" } },
+        { "src": "/media/trang-phuc/anh-2.jpg", "alt": { "vi": "Ảnh trang phục 2", "mnong": "Ảnh trang phục 2" } },
+        { "src": "/media/trang-phuc/anh-3.jpg", "alt": { "vi": "Áo chéo và khố nam M'Nông", "mnong": "Áo chéo và khố nam M'Nông" } },
+        { "src": "/media/trang-phuc/anh-4.jpg", "alt": { "vi": "Áo và váy nữ M'Nông", "mnong": "Áo và váy nữ M'Nông" } }
+      ]
+    }
+  ]
+}

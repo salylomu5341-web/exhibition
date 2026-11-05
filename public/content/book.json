@@ -1,0 +1,16 @@
+{
+  "title": {
+    "vi": "Sách di sản văn hóa dân tộc M'Nông ở Đam Rông 4",
+    "mnong": "Sách di sản văn hóa dân tộc M'Nông ở Đam Rông 4"
+  },
+  "intro": {
+    "vi": "Mỗi gian của nhà dài M'Nông trong một cuốn sách: lời giới thiệu, hình ảnh và mã QR để vào gian 3D tương ứng.",
+    "mnong": "Mỗi gian của nhà dài M'Nông trong một cuốn sách: lời giới thiệu, hình ảnh và mã QR để vào gian 3D tương ứng."
+  },
+  "cover": "/media/sach/bia.jpg",
+  "seo": {
+    "title": "Sách 3D lật về văn hóa người M'Nông – Triển lãm số văn hóa",
+    "description": "Đọc sách 3D lật về văn hóa M'Nông ngay trên điện thoại: cồng chiêng, lễ hội, trang phục, song ngữ Việt – M'Nông.",
+    "image": "/media/share/sach.jpg"
+  }
+}

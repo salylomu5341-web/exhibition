@@ -1,0 +1,85 @@
+/* Tờ in theo gian, khổ A4 đứng. Dùng chung cho trang in (/in/) và trang sách (/sach/). */
+.sheet {
+  --sheet-pad: 40px;
+  --stripe: repeating-linear-gradient(90deg, #a8321f 0 22px, #1f1712 22px 28px, #e7c48a 28px 34px, #1f1712 34px 40px);
+  position: relative; display: flex; flex-direction: column;
+  width: 210mm; height: 297mm; overflow: hidden;
+  background: #fffaf1; color: #2a1e12;
+  font-family: "Be Vietnam Pro", "Segoe UI", Roboto, Arial, sans-serif;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact;
+}
+.sheet a { color: inherit; text-decoration: none; }
+
+.sh-head { background: #3b2a1a; color: #fff6e6; padding: 28px var(--sheet-pad) 0; flex-shrink: 0; }
+.sh-head::after { content: ""; display: block; height: 10px; margin: 20px calc(-1 * var(--sheet-pad)) 0; background: var(--stripe); }
+.sh-kicker { margin: 0 0 6px; font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: #e7c48a; }
+.sh-title { margin: 0; font-size: 34px; line-height: 1.15; font-weight: 800; }
+.sh-title small { font-size: 16px; font-weight: 500; color: #e7c48a; }
+.sheet-room.cont .sh-head { padding-top: 20px; }
+.sheet-room.cont .sh-title { font-size: 24px; }
+
+.sh-photos { display: grid; gap: 10px; margin: 22px var(--sheet-pad) 0; flex-shrink: 0; }
+/* Khung gần tỉ lệ 16:9 (ảnh triển lãm phần lớn là ảnh ngang). */
+.sh-photos.n3 { grid-template-columns: 2fr 1fr; grid-template-rows: 1fr 1fr; height: 280px; }
+.sh-photos.n3 .sh-photo:first-child { grid-row: span 2; }
+.sh-photos.n2 { grid-template-columns: 1fr 1fr; height: 210px; }
+.sh-photos.n1 { height: 320px; }
+.sh-photos.n4 { grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; height: 330px; }
+.sh-photo { position: relative; margin: 0; overflow: hidden; border-radius: 6px; background: #eadfca; }
+.sh-photo::before { content: ""; position: absolute; inset: -24px; background: var(--photo, none) center / cover; filter: blur(16px) brightness(0.8); }
+.sh-photo img { position: relative; width: 100%; height: 100%; object-fit: contain; display: block; }
+.sh-photo img.broken { visibility: hidden; }
+
+.sh-text {
+  flex: 1 1 0; min-height: 0; overflow: hidden;
+  margin: 22px var(--sheet-pad) 0;
+  column-count: 2; column-gap: 28px; column-rule: 1px solid #3b2a1a1a;
+  font-size: 14px; line-height: 1.55; text-align: justify; hyphens: auto;
+}
+.sh-text p { margin: 0 0 0.6em; }
+.sh-text h3 { margin: 0.5em 0 0.35em; font-size: 1.2em; line-height: 1.3; color: #7d5530; text-align: left; break-after: avoid; }
+.sh-text h3:first-child { margin-top: 0; }
+
+.sh-foot {
+  display: flex; align-items: center; gap: 18px; flex-shrink: 0;
+  margin: 18px var(--sheet-pad) 30px; padding-top: 14px; border-top: 2px solid #e2572b;
+}
+.sh-foot-text { flex: 1; display: flex; flex-direction: column; gap: 4px; }
+.sh-foot-text b { font-size: 15px; }
+.sh-foot-text a { font-size: 12px; color: #6b5a45; word-break: break-all; }
+.sh-qr { flex-shrink: 0; width: 112px; height: 112px; padding: 6px; background: #fff; border-radius: 6px; }
+.sh-qr-code, .sh-qr-code svg { display: block; width: 100%; height: 100%; }
+
+/* Bìa */
+.sheet-cover { background: #3b2a1a; color: #fff6e6; justify-content: center; }
+.sheet-cover::before, .sheet-cover::after { content: ""; position: absolute; left: 0; right: 0; height: 18px; background: var(--stripe); }
+.sheet-cover::before { top: 60px; }
+.sheet-cover::after { bottom: 60px; }
+.sh-cover-inner { padding: 0 64px; text-align: center; }
+.sh-cover-title { margin: 0 0 24px; font-size: 52px; line-height: 1.1; font-weight: 800; }
+.sh-cover-intro { margin: 0 auto; max-width: 520px; font-size: 16px; line-height: 1.6; color: #f1dfbf; }
+.sheet-cover.has-image::before, .sheet-cover.has-image::after { display: none; }
+.sheet-cover.has-image { background: #1f1712; overflow: hidden; }
+.sh-cover-bg { position: absolute; inset: -40px; background: center / cover no-repeat; filter: blur(22px) brightness(0.45); }
+.sh-cover-img { position: absolute; left: 28px; right: 28px; top: 250px; bottom: 120px; width: calc(100% - 56px); height: calc(100% - 370px); object-fit: contain; filter: drop-shadow(0 8px 24px #0009); }
+/* Tên sách trên ảnh bìa: dải tối mờ dần ở đầu trang, chữ in hoa. */
+.sh-cover-band {
+  position: absolute; left: 0; right: 0; top: 0; padding: 70px 48px 0;
+}
+.sh-cover-band::after { content: ""; display: block; width: 120px; height: 8px; margin: 18px auto 0; background: var(--stripe); }
+.sh-cover-name {
+  margin: 0; text-align: center; color: #fff6e6; text-transform: uppercase;
+  font-size: 38px; line-height: 1.25; font-weight: 800; letter-spacing: 0.02em; text-shadow: 0 2px 8px #0008;
+}
+
+/* Trang cuối */
+.sh-rooms { flex: 1; margin: 36px var(--sheet-pad) 0; padding: 0 0 0 1.4em; font-size: 22px; line-height: 2; }
+.sh-rooms li::marker { color: #e2572b; font-weight: 700; }
+.sh-foot-two { justify-content: space-around; align-items: flex-start; padding-top: 20px; }
+.sh-qr-card { display: flex; flex-direction: column; align-items: center; gap: 8px; width: 240px; text-align: center; }
+.sh-qr-card .sh-qr { width: 150px; height: 150px; }
+.sh-qr-card b { font-size: 15px; line-height: 1.35; }
+.sh-qr-url { font-size: 12px; color: #6b5a45; word-break: break-all; }
+
+/* Chỗ đo cỡ chữ cho tờ chưa gắn vào trang */
+.sheet-measure { position: fixed; left: -10000px; top: 0; visibility: hidden; pointer-events: none; }

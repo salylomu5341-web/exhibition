@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.superpowers/
+qr/
+test-results/
+playwright-report/
+.claude/
+
+# Chuỗi kết nối, mật khẩu: chỉ nằm trên máy
+.env.local

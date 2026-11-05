@@ -1,0 +1,58 @@
+# Mẫu cấu hình nginx cho triển lãm M'Nông.
+# - Thay example.com bằng tên miền thật; SITE_URL trong site.config.ts phải đúng là địa chỉ https này
+#   (ví dụ https://example.com), rồi mới chạy `npm run build`.
+# - Camera (chụp ảnh trang phục) và AR chỉ chạy trên HTTPS, nên bắt buộc có chứng chỉ.
+#   Lấy chứng chỉ miễn phí bằng Let's Encrypt: `sudo certbot certonly --webroot -w /var/www/certbot -d example.com`
+
+# Cổng 80: chuyển hết sang HTTPS.
+server {
+    listen 80;
+    server_name example.com;
+
+    location /.well-known/acme-challenge/ { root /var/www/certbot; }
+    location / { return 301 https://$host$request_uri; }
+}
+
+server {
+    listen 443 ssl http2;
+    server_name example.com;
+
+    ssl_certificate     /etc/letsencrypt/live/example.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/example.com/privkey.pem;
+
+    root /var/www/trien-lam-mnong/dist;
+    index index.html;
+
+    # Thêm kiểu cho wav, glb, usdz. Khai báo `types` ở đây thay hẳn bảng mặc định nên phải include lại;
+    # nếu nginx cảnh báo trùng đuôi "wav" lúc nạp cấu hình thì bỏ qua được (dòng sau thắng).
+    include mime.types;
+    types {
+        audio/wav            wav;
+        model/gltf-binary    glb;
+        model/vnd.usdz+zip   usdz;
+    }
+
+    gzip on;
+    gzip_types text/css application/javascript application/json image/svg+xml model/gltf-binary;
+
+    # File trong /assets/ có mã băm trong tên: đổi nội dung thì đổi tên, nên cache vĩnh viễn được.
+    location /assets/ {
+        expires 1y;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Ảnh, âm thanh, mô hình, nội dung JSON: giữ nguyên tên file khi thay vẫn được.
+    # no-cache = trình duyệt luôn hỏi lại server bằng ETag (nginx tự gửi ETag cho file tĩnh);
+    # file không đổi thì server trả 304, không tải lại.
+    location /media/   { add_header Cache-Control "no-cache"; }
+    location /content/ { add_header Cache-Control "no-cache"; }
+
+    # Trang HTML: luôn kiểm tra lại để khách thấy bản mới sau khi đưa lên.
+    location = /          { add_header Cache-Control "no-cache"; }
+    location ~ \.html$    { add_header Cache-Control "no-cache"; }
+    # Trang thư mục, ví dụ /phong/cong-chieng/: nginx tự chuyển nội bộ sang .../index.html
+    # nên cũng khớp dòng "location ~ ... html" ngay trên.
+
+    # Mọi trang đã được dựng sẵn, không cần chuyển hướng về index.html.
+    location / { try_files $uri $uri/ =404; }
+}

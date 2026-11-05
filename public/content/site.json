@@ -1,0 +1,25 @@
+{
+  "name": {
+    "vi": "Triển lãm số văn hóa M'Nông",
+    "mnong": "Triển lãm số văn hóa M'Nông"
+  },
+  "welcome": {
+    "vi": "Chào mừng quý vị và các bạn đến với không gian triển lãm 3D về văn hóa của dân tộc M'Nông ở Đam Rông 4. Hãy đi theo dọc lối giữa để khám phá thông tin, ảnh và video của các sảnh cồng chiêng; lễ cầu mùa; lễ cầu bến nước; lễ báo hiếu; bài hát dân tộc, múa xoang, nhạc cụ dân gian và trang phục. Cuối cùng mọi người có thể kiểm tra kiến thức đã trải nghiệm thông qua 15 câu hỏi trắc nghiệm.\n\nKính chúc quý vị và các bạn có một hành trình khám phá thật thú vị, nhiều niềm vui và đọng lại những kiến thức bổ ích về văn hóa M'Nông!",
+    "mnong": "Niam să ală oh mi, gơp pơ yô trôh mà broă lăm pơn tỗ 3D mà cơ no niam kònco M'Nông tàm Đam Rông 4. Lòt bal ơn jôi vờng ơn git wờng broă lơh mà rùp video bơh bơta niam hèr cing – gòng, lèh nô ndah, lơh yàng dà mpa, bôh sôr, pôr puac me bàp in, cơ no ntòng, tàm ya, cing mbuôt mà cơ no soh nù. Dut ndơi bol sền sơ wì 15 cơ no pơr long.\n\nKơp kỡn gơp pơ yô mơu cơ no pơ sram git hèr naim mơ cơ no niam gơ wèt mà kònco M'Nông."
+  },
+  "introVideo": "VEc6firsx4c",
+  "seo": {
+    "title": "Triển lãm số văn hóa M'Nông – Không gian nhà dài 3D",
+    "description": "Tham quan nhà dài M'Nông 3D: cồng chiêng, lễ cầu mùa, cầu bến nước, lễ báo hiếu, múa xoang, trang phục và câu hỏi trắc nghiệm.",
+    "image": "/media/share/trang-chu.jpg"
+  },
+  "rooms": [
+    "01-cong-chieng",
+    "02-le-cau-mua",
+    "03-le-cung-ben-nuoc",
+    "04-le-bao-hieu",
+    "05-hat-mua-xoang-nhac-cu",
+    "06-trang-phuc",
+    "07-trac-nghiem"
+  ]
+}

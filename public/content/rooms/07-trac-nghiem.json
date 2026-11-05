@@ -1,0 +1,485 @@
+{
+  "id": "07-trac-nghiem",
+  "slug": "trac-nghiem",
+  "order": 7,
+  "name": {
+    "vi": "Câu hỏi trắc nghiệm",
+    "mnong": "Câu hỏi trắc nghiệm"
+  },
+  "intro": {
+    "vi": "Sau khi tham quan, hãy thử trả lời 15 câu hỏi trắc nghiệm về văn hóa M'Nông.",
+    "mnong": "Sau khi tham quan, hãy thử trả lời 15 câu hỏi trắc nghiệm về văn hóa M'Nông."
+  },
+  "seo": {
+    "title": "Câu hỏi trắc nghiệm về văn hóa M'Nông – Triển lãm số",
+    "description": "Thử sức với câu hỏi trắc nghiệm về văn hóa M'Nông, có âm thanh báo đúng sai và tổng điểm ngay sau khi trả lời.",
+    "image": "/media/share/trac-nghiem.jpg"
+  },
+  "exhibits": [
+    {
+      "id": "huong-dan",
+      "type": "board",
+      "position": {
+        "wall": "left",
+        "slot": 0
+      },
+      "title": {
+        "vi": "Cách chơi",
+        "mnong": "Cách chơi"
+      },
+      "body": {
+        "vi": "Chạm vào bảng câu hỏi ở vách đối diện. Mỗi câu có 4 đáp án, chọn một đáp án để biết đúng hay sai. Cuối bài bạn sẽ thấy tổng điểm.",
+        "mnong": "Chạm vào bảng câu hỏi ở vách đối diện. Mỗi câu có 4 đáp án, chọn một đáp án để biết đúng hay sai. Cuối bài bạn sẽ thấy tổng điểm."
+      }
+    },
+    {
+      "id": "cau-hoi",
+      "type": "quiz",
+      "position": {
+        "wall": "right",
+        "slot": 1
+      },
+      "title": {
+        "vi": "Câu hỏi trắc nghiệm",
+        "mnong": "Câu hỏi trắc nghiệm"
+      },
+      "questions": [
+        {
+          "question": {
+            "vi": "Cồng chiêng có vai trò gì trong đời sống văn hóa của người M’nông?",
+            "mnong": "Cồng chiêng có vai trò gì trong đời sống văn hóa của người M’nông?"
+          },
+          "options": [
+            {
+              "vi": "Chỉ dùng để trang trí",
+              "mnong": "Chỉ dùng để trang trí"
+            },
+            {
+              "vi": "Gắn với nghi lễ, lễ hội và sinh hoạt cộng đồng",
+              "mnong": "Gắn với nghi lễ, lễ hội và sinh hoạt cộng đồng"
+            },
+            {
+              "vi": "Chỉ dùng trong lao động",
+              "mnong": "Chỉ dùng trong lao động"
+            },
+            {
+              "vi": "Chỉ dùng để báo hiệu",
+              "mnong": "Chỉ dùng để báo hiệu"
+            }
+          ],
+          "answer": 1,
+          "explain": {
+            "vi": "Đáp án đúng: Gắn với nghi lễ, lễ hội và sinh hoạt cộng đồng.",
+            "mnong": "Đáp án đúng: Gắn với nghi lễ, lễ hội và sinh hoạt cộng đồng."
+          }
+        },
+        {
+          "question": {
+            "vi": "Lễ cầu mùa thường được tổ chức với mong muốn gì?",
+            "mnong": "Lễ cầu mùa thường được tổ chức với mong muốn gì?"
+          },
+          "options": [
+            {
+              "vi": "Cầu mong mùa màng tốt tươi, cuộc sống no đủ",
+              "mnong": "Cầu mong mùa màng tốt tươi, cuộc sống no đủ"
+            },
+            {
+              "vi": "Cầu mong xây dựng nhà mới",
+              "mnong": "Cầu mong xây dựng nhà mới"
+            },
+            {
+              "vi": "Chúc mừng năm học mới",
+              "mnong": "Chúc mừng năm học mới"
+            },
+            {
+              "vi": "Tổ chức thi đấu thể thao",
+              "mnong": "Tổ chức thi đấu thể thao"
+            }
+          ],
+          "answer": 0,
+          "explain": {
+            "vi": "Đáp án đúng: Cầu mong mùa màng tốt tươi, cuộc sống no đủ.",
+            "mnong": "Đáp án đúng: Cầu mong mùa màng tốt tươi, cuộc sống no đủ."
+          }
+        },
+        {
+          "question": {
+            "vi": "Lễ cầu bến nước thường thể hiện ý nghĩa nào?",
+            "mnong": "Lễ cầu bến nước thường thể hiện ý nghĩa nào?"
+          },
+          "options": [
+            {
+              "vi": "Tưởng nhớ người thân",
+              "mnong": "Tưởng nhớ người thân"
+            },
+            {
+              "vi": "Cầu mong nguồn nước và cuộc sống bình an, tốt lành",
+              "mnong": "Cầu mong nguồn nước và cuộc sống bình an, tốt lành"
+            },
+            {
+              "vi": "Mừng nhà mới",
+              "mnong": "Mừng nhà mới"
+            },
+            {
+              "vi": "Chào đón khách du lịch",
+              "mnong": "Chào đón khách du lịch"
+            }
+          ],
+          "answer": 1,
+          "explain": {
+            "vi": "Đáp án đúng: Cầu mong nguồn nước và cuộc sống bình an, tốt lành.",
+            "mnong": "Đáp án đúng: Cầu mong nguồn nước và cuộc sống bình an, tốt lành."
+          }
+        },
+        {
+          "question": {
+            "vi": "Lễ báo hiếu thể hiện giá trị đạo đức nào?",
+            "mnong": "Lễ báo hiếu thể hiện giá trị đạo đức nào?"
+          },
+          "options": [
+            {
+              "vi": "Lòng biết ơn và sự kính trọng đối với cha mẹ, người thân",
+              "mnong": "Lòng biết ơn và sự kính trọng đối với cha mẹ, người thân"
+            },
+            {
+              "vi": "Tinh thần cạnh tranh",
+              "mnong": "Tinh thần cạnh tranh"
+            },
+            {
+              "vi": "Sự giàu có",
+              "mnong": "Sự giàu có"
+            },
+            {
+              "vi": "Tinh thần vui chơi",
+              "mnong": "Tinh thần vui chơi"
+            }
+          ],
+          "answer": 0,
+          "explain": {
+            "vi": "Đáp án đúng: Lòng biết ơn và sự kính trọng đối với cha mẹ, người thân.",
+            "mnong": "Đáp án đúng: Lòng biết ơn và sự kính trọng đối với cha mẹ, người thân."
+          }
+        },
+        {
+          "question": {
+            "vi": "Múa xoang thường gắn với hoạt động văn hóa nào ở Tây Nguyên?",
+            "mnong": "Múa xoang thường gắn với hoạt động văn hóa nào ở Tây Nguyên?"
+          },
+          "options": [
+            {
+              "vi": "Biểu diễn và sinh hoạt văn hóa cộng đồng",
+              "mnong": "Biểu diễn và sinh hoạt văn hóa cộng đồng"
+            },
+            {
+              "vi": "Hoạt động sản xuất công nghiệp",
+              "mnong": "Hoạt động sản xuất công nghiệp"
+            },
+            {
+              "vi": "Thi đấu bơi lội",
+              "mnong": "Thi đấu bơi lội"
+            },
+            {
+              "vi": "Hoạt động buôn bán",
+              "mnong": "Hoạt động buôn bán"
+            }
+          ],
+          "answer": 0,
+          "explain": {
+            "vi": "Đáp án đúng: Biểu diễn và sinh hoạt văn hóa cộng đồng.",
+            "mnong": "Đáp án đúng: Biểu diễn và sinh hoạt văn hóa cộng đồng."
+          }
+        },
+        {
+          "question": {
+            "vi": "Nhạc cụ dân gian có vai trò gì trong đời sống văn hóa M’nông?",
+            "mnong": "Nhạc cụ dân gian có vai trò gì trong đời sống văn hóa M’nông?"
+          },
+          "options": [
+            {
+              "vi": "Chỉ dùng để trang trí",
+              "mnong": "Chỉ dùng để trang trí"
+            },
+            {
+              "vi": "Góp phần tạo nên âm thanh, nhịp điệu trong sinh hoạt và nghi lễ",
+              "mnong": "Góp phần tạo nên âm thanh, nhịp điệu trong sinh hoạt và nghi lễ"
+            },
+            {
+              "vi": "Chỉ dùng để trao đổi hàng hóa",
+              "mnong": "Chỉ dùng để trao đổi hàng hóa"
+            },
+            {
+              "vi": "Không có vai trò gì",
+              "mnong": "Không có vai trò gì"
+            }
+          ],
+          "answer": 1,
+          "explain": {
+            "vi": "Đáp án đúng: Góp phần tạo nên âm thanh, nhịp điệu trong sinh hoạt và nghi lễ.",
+            "mnong": "Đáp án đúng: Góp phần tạo nên âm thanh, nhịp điệu trong sinh hoạt và nghi lễ."
+          }
+        },
+        {
+          "question": {
+            "vi": "Trang phục truyền thống của người M’nông thường có đặc điểm nào?",
+            "mnong": "Trang phục truyền thống của người M’nông thường có đặc điểm nào?"
+          },
+          "options": [
+            {
+              "vi": "Chỉ sử dụng màu trắng",
+              "mnong": "Chỉ sử dụng màu trắng"
+            },
+            {
+              "vi": "Có các hoa văn, họa tiết thổ cẩm đặc trưng",
+              "mnong": "Có các hoa văn, họa tiết thổ cẩm đặc trưng"
+            },
+            {
+              "vi": "Chỉ làm từ nhựa",
+              "mnong": "Chỉ làm từ nhựa"
+            },
+            {
+              "vi": "Không có họa tiết trang trí",
+              "mnong": "Không có họa tiết trang trí"
+            }
+          ],
+          "answer": 1,
+          "explain": {
+            "vi": "Đáp án đúng: Có các hoa văn, họa tiết thổ cẩm đặc trưng.",
+            "mnong": "Đáp án đúng: Có các hoa văn, họa tiết thổ cẩm đặc trưng."
+          }
+        },
+        {
+          "question": {
+            "vi": "Trang phục truyền thống thường được sử dụng trong những dịp nào?",
+            "mnong": "Trang phục truyền thống thường được sử dụng trong những dịp nào?"
+          },
+          "options": [
+            {
+              "vi": "Lễ hội và sinh hoạt văn hóa truyền thống",
+              "mnong": "Lễ hội và sinh hoạt văn hóa truyền thống"
+            },
+            {
+              "vi": "Chỉ khi đi học",
+              "mnong": "Chỉ khi đi học"
+            },
+            {
+              "vi": "Chỉ khi lao động ngoài đồng",
+              "mnong": "Chỉ khi lao động ngoài đồng"
+            },
+            {
+              "vi": "Chỉ trong các cuộc thi thể thao",
+              "mnong": "Chỉ trong các cuộc thi thể thao"
+            }
+          ],
+          "answer": 0,
+          "explain": {
+            "vi": "Đáp án đúng: Lễ hội và sinh hoạt văn hóa truyền thống.",
+            "mnong": "Đáp án đúng: Lễ hội và sinh hoạt văn hóa truyền thống."
+          }
+        },
+        {
+          "question": {
+            "vi": "Việc số hóa di sản bằng hình ảnh, video, âm thanh và không gian 3D có tác dụng gì?",
+            "mnong": "Việc số hóa di sản bằng hình ảnh, video, âm thanh và không gian 3D có tác dụng gì?"
+          },
+          "options": [
+            {
+              "vi": "Làm mất đi giá trị truyền thống",
+              "mnong": "Làm mất đi giá trị truyền thống"
+            },
+            {
+              "vi": "Giúp lưu giữ, giới thiệu và hỗ trợ tìm hiểu di sản",
+              "mnong": "Giúp lưu giữ, giới thiệu và hỗ trợ tìm hiểu di sản"
+            },
+            {
+              "vi": "Thay thế hoàn toàn nghệ nhân",
+              "mnong": "Thay thế hoàn toàn nghệ nhân"
+            },
+            {
+              "vi": "Chỉ phục vụ mục đích giải trí",
+              "mnong": "Chỉ phục vụ mục đích giải trí"
+            }
+          ],
+          "answer": 1,
+          "explain": {
+            "vi": "Đáp án đúng: Giúp lưu giữ, giới thiệu và hỗ trợ tìm hiểu di sản.",
+            "mnong": "Đáp án đúng: Giúp lưu giữ, giới thiệu và hỗ trợ tìm hiểu di sản."
+          }
+        },
+        {
+          "question": {
+            "vi": "Học sinh có thể góp phần bảo tồn văn hóa M’nông bằng cách nào?",
+            "mnong": "Học sinh có thể góp phần bảo tồn văn hóa M’nông bằng cách nào?"
+          },
+          "options": [
+            {
+              "vi": "Tìm hiểu và trân trọng văn hóa truyền thống",
+              "mnong": "Tìm hiểu và trân trọng văn hóa truyền thống"
+            },
+            {
+              "vi": "Học hỏi từ nghệ nhân và người am hiểu văn hóa",
+              "mnong": "Học hỏi từ nghệ nhân và người am hiểu văn hóa"
+            },
+            {
+              "vi": "Giới thiệu di sản bằng các hình thức phù hợp",
+              "mnong": "Giới thiệu di sản bằng các hình thức phù hợp"
+            },
+            {
+              "vi": "Tất cả đáp án trên",
+              "mnong": "Tất cả đáp án trên"
+            }
+          ],
+          "answer": 3,
+          "explain": {
+            "vi": "Đáp án đúng: Tất cả đáp án trên.",
+            "mnong": "Đáp án đúng: Tất cả đáp án trên."
+          }
+        },
+        {
+          "question": {
+            "vi": "Lễ cầu mùa của người M’nông tại xã Đam Rông 4 được tái hiện vào ngày nào?",
+            "mnong": "Lễ cầu mùa của người M’nông tại xã Đam Rông 4 được tái hiện vào ngày nào?"
+          },
+          "options": [
+            {
+              "vi": "02/09/2025",
+              "mnong": "02/09/2025"
+            },
+            {
+              "vi": "02/11/2025",
+              "mnong": "02/11/2025"
+            },
+            {
+              "vi": "16/12/2025",
+              "mnong": "16/12/2025"
+            },
+            {
+              "vi": "20/12/2025",
+              "mnong": "20/12/2025"
+            }
+          ],
+          "answer": 1,
+          "explain": {
+            "vi": "Đáp án đúng: 02/11/2025.",
+            "mnong": "Đáp án đúng: 02/11/2025."
+          }
+        },
+        {
+          "question": {
+            "vi": "Lễ cầu bến nước của người M’nông được tái hiện vào ngày nào?",
+            "mnong": "Lễ cầu bến nước của người M’nông được tái hiện vào ngày nào?"
+          },
+          "options": [
+            {
+              "vi": "14/12/2025",
+              "mnong": "14/12/2025"
+            },
+            {
+              "vi": "15/12/2025",
+              "mnong": "15/12/2025"
+            },
+            {
+              "vi": "16/12/2025",
+              "mnong": "16/12/2025"
+            },
+            {
+              "vi": "17/12/2025",
+              "mnong": "17/12/2025"
+            }
+          ],
+          "answer": 2,
+          "explain": {
+            "vi": "Đáp án đúng: 16/12/2025.",
+            "mnong": "Đáp án đúng: 16/12/2025."
+          }
+        },
+        {
+          "question": {
+            "vi": "Lớp tập huấn về bảo tồn văn hóa M’nông tại xã Đam Rông 4 được tổ chức trong khoảng thời gian nào?",
+            "mnong": "Lớp tập huấn về bảo tồn văn hóa M’nông tại xã Đam Rông 4 được tổ chức trong khoảng thời gian nào?"
+          },
+          "options": [
+            {
+              "vi": "10–12/12/2025",
+              "mnong": "10–12/12/2025"
+            },
+            {
+              "vi": "12–14/12/2025",
+              "mnong": "12–14/12/2025"
+            },
+            {
+              "vi": "14–16/12/2025",
+              "mnong": "14–16/12/2025"
+            },
+            {
+              "vi": "16–18/12/2025",
+              "mnong": "16–18/12/2025"
+            }
+          ],
+          "answer": 2,
+          "explain": {
+            "vi": "Đáp án đúng: 14–16/12/2025.",
+            "mnong": "Đáp án đúng: 14–16/12/2025."
+          }
+        },
+        {
+          "question": {
+            "vi": "Lễ báo hiếu của người M’nông tại xã Đam Rông 4 được tái hiện vào thời gian nào?",
+            "mnong": "Lễ báo hiếu của người M’nông tại xã Đam Rông 4 được tái hiện vào thời gian nào?"
+          },
+          "options": [
+            {
+              "vi": "Tháng 2/2025",
+              "mnong": "Tháng 2/2025"
+            },
+            {
+              "vi": "Tháng 3/2025",
+              "mnong": "Tháng 3/2025"
+            },
+            {
+              "vi": "Tháng 4/2025",
+              "mnong": "Tháng 4/2025"
+            },
+            {
+              "vi": "Tháng 5/2025",
+              "mnong": "Tháng 5/2025"
+            }
+          ],
+          "answer": 2,
+          "explain": {
+            "vi": "Đáp án đúng: Tháng 4/2025.",
+            "mnong": "Đáp án đúng: Tháng 4/2025."
+          }
+        },
+        {
+          "question": {
+            "vi": "Ai có vai trò quan trọng trong việc truyền dạy nghệ thuật cồng chiêng?",
+            "mnong": "Ai có vai trò quan trọng trong việc truyền dạy nghệ thuật cồng chiêng?"
+          },
+          "options": [
+            {
+              "vi": "Nghệ nhân và những người am hiểu văn hóa",
+              "mnong": "Nghệ nhân và những người am hiểu văn hóa"
+            },
+            {
+              "vi": "Chỉ khách du lịch",
+              "mnong": "Chỉ khách du lịch"
+            },
+            {
+              "vi": "Chỉ người bán nhạc cụ",
+              "mnong": "Chỉ người bán nhạc cụ"
+            },
+            {
+              "vi": "Chỉ người làm nghề xây dựng",
+              "mnong": "Chỉ người làm nghề xây dựng"
+            }
+          ],
+          "answer": 0,
+          "explain": {
+            "vi": "Đáp án đúng: Nghệ nhân và những người am hiểu văn hóa.",
+            "mnong": "Đáp án đúng: Nghệ nhân và những người am hiểu văn hóa."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+/* Trang in tờ theo gian (/in/) */
+body.print-page { background: #d9cfbf; }
+#print-bar {
+  position: sticky; top: 0; z-index: 5;
+  background: var(--paper); box-shadow: 0 1px 6px #0003; padding: 10px 16px;
+}
+.print-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; max-width: 1100px; margin: 0 auto; }
+.print-tools h1 { flex: 1; margin: 0; font-size: 18px; color: var(--brown); white-space: nowrap; }
+.print-tools .lang button { color: #fff; }
+.print-tools select { font: inherit; padding: 8px; border-radius: 8px; min-height: 40px; }
+.print-warn { max-width: 1100px; margin: 8px auto 0; padding: 8px 12px; border-radius: 8px; background: #c62828; color: #fff; font-weight: 700; }
+
+#sheets { display: flex; flex-direction: column; align-items: center; gap: 24px; padding: 24px 12px 48px; zoom: var(--screen-zoom, 1); }
+#sheets .sheet { box-shadow: 0 6px 24px #0004; }
+
+@media print {
+  body.print-page { background: none; }
+  #print-bar { display: none; }
+  #sheets { display: block; padding: 0; zoom: var(--paper-zoom, 1); }
+  #sheets .sheet { box-shadow: none; break-after: page; }
+  #sheets .sheet:last-child { break-after: auto; }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "03-le-cung-ben-nuoc",
+  "slug": "le-cung-ben-nuoc",
+  "order": 3,
+  "name": { "vi": "Lễ cầu bến nước", "mnong": "Lễ cầu bến nước" },
+  "intro": {
+    "vi": "Lễ cầu bến nước là một nghi lễ mang ý nghĩa văn hóa và tín ngưỡng, gắn với quan niệm trân trọng nguồn nước của đồng bào M’nông. Bến nước không chỉ phục vụ sinh hoạt mà còn là không gian chung, gắn bó với đời sống của buôn làng.",
+    "mnong": "Lễ cầu bến nước là một nghi lễ mang ý nghĩa văn hóa và tín ngưỡng, gắn với quan niệm trân trọng nguồn nước của đồng bào M’nông. Bến nước không chỉ phục vụ sinh hoạt mà còn là không gian chung, gắn bó với đời sống của buôn làng."
+  },
+  "seo": {
+    "title": "Lễ cầu bến nước của người M'Nông – Triển lãm số văn hóa",
+    "description": "Lễ cầu bến nước của người M'Nông: ảnh, video và thuyết minh song ngữ Việt – M'Nông trong không gian nhà dài 3D.",
+    "image": "/media/share/le-cung-ben-nuoc.jpg"
+  },
+  "exhibits": [
+    {
+      "id": "gioi-thieu",
+      "type": "board",
+      "position": { "wall": "left", "slot": 0 },
+      "title": { "vi": "Giới thiệu lễ cầu bến nước", "mnong": "Giới thiệu lễ cầu bến nước" },
+      "body": {
+        "vi": "## Gìn giữ nguồn nước – Bảo tồn nét đẹp truyền thống\n\n## 1. Khái quát\n\nLễ cầu bến nước là một nghi lễ mang ý nghĩa văn hóa và tín ngưỡng, gắn với quan niệm trân trọng nguồn nước của đồng bào M’nông. Bến nước không chỉ phục vụ sinh hoạt mà còn là không gian chung, gắn bó với đời sống của buôn làng.\n\n## 2. Nguồn gốc và ý nghĩa\n\nNghi lễ thể hiện lòng biết ơn đối với thiên nhiên, cầu mong nguồn nước dồi dào, trong lành, cuộc sống bình an và mùa màng thuận lợi.\n\n## 3. Nghi thức và lễ vật\n\nTùy phong tục từng cộng đồng, lễ cúng có thể gồm các hoạt động chuẩn bị bến nước, dâng lễ vật và thực hiện nghi thức khấn cúng do người có uy tín hoặc người chủ lễ đảm nhiệm.\n\n## 4. Vai trò trong đời sống cộng đồng\n\nLễ cầu bến nước là dịp để người dân cùng tham gia, thể hiện tinh thần đoàn kết, ý thức bảo vệ nguồn nước và sự gắn bó giữa con người với thiên nhiên.\n\n## 5. Giá trị văn hóa\n\nNghi lễ chứa đựng giá trị tín ngưỡng, lịch sử và cộng đồng, góp phần lưu giữ phong tục truyền thống và bản sắc văn hóa của người M’nông.\n\n## 6. Bảo tồn và phát huy\n\nViệc gìn giữ phong tục, bảo vệ bến nước và truyền dạy những giá trị truyền thống cho thế hệ trẻ góp phần bảo tồn di sản văn hóa M’nông tại Đam Rông 4.\n\n“Giữ nguồn nước trong lành – Gìn giữ bản sắc văn hóa M’nông.”",
+        "mnong": "## Gìn giữ nguồn nước – Bảo tồn nét đẹp truyền thống\n\n## 1. Khái quát\n\nLễ cầu bến nước là một nghi lễ mang ý nghĩa văn hóa và tín ngưỡng, gắn với quan niệm trân trọng nguồn nước của đồng bào M’nông. Bến nước không chỉ phục vụ sinh hoạt mà còn là không gian chung, gắn bó với đời sống của buôn làng.\n\n## 2. Nguồn gốc và ý nghĩa\n\nNghi lễ thể hiện lòng biết ơn đối với thiên nhiên, cầu mong nguồn nước dồi dào, trong lành, cuộc sống bình an và mùa màng thuận lợi.\n\n## 3. Nghi thức và lễ vật\n\nTùy phong tục từng cộng đồng, lễ cúng có thể gồm các hoạt động chuẩn bị bến nước, dâng lễ vật và thực hiện nghi thức khấn cúng do người có uy tín hoặc người chủ lễ đảm nhiệm.\n\n## 4. Vai trò trong đời sống cộng đồng\n\nLễ cầu bến nước là dịp để người dân cùng tham gia, thể hiện tinh thần đoàn kết, ý thức bảo vệ nguồn nước và sự gắn bó giữa con người với thiên nhiên.\n\n## 5. Giá trị văn hóa\n\nNghi lễ chứa đựng giá trị tín ngưỡng, lịch sử và cộng đồng, góp phần lưu giữ phong tục truyền thống và bản sắc văn hóa của người M’nông.\n\n## 6. Bảo tồn và phát huy\n\nViệc gìn giữ phong tục, bảo vệ bến nước và truyền dạy những giá trị truyền thống cho thế hệ trẻ góp phần bảo tồn di sản văn hóa M’nông tại Đam Rông 4.\n\n“Giữ nguồn nước trong lành – Gìn giữ bản sắc văn hóa M’nông.”"
+      }
+    },
+    {
+      "id": "anh-le-cung-ben-nuoc",
+      "type": "gallery",
+      "position": { "wall": "right", "slot": 0 },
+      "title": { "vi": "Ảnh lễ cầu bến nước", "mnong": "Ảnh lễ cầu bến nước" },
+      "images": [
+        { "src": "/media/le-cung-ben-nuoc/anh-1.jpg", "alt": { "vi": "Ảnh lễ cầu bến nước 1", "mnong": "Ảnh lễ cầu bến nước 1" } },
+        { "src": "/media/le-cung-ben-nuoc/anh-2.jpg", "alt": { "vi": "Ảnh lễ cầu bến nước 2", "mnong": "Ảnh lễ cầu bến nước 2" } },
+        { "src": "/media/le-cung-ben-nuoc/anh-3.jpg", "alt": { "vi": "Ảnh lễ cầu bến nước 3", "mnong": "Ảnh lễ cầu bến nước 3" } },
+        { "src": "/media/le-cung-ben-nuoc/anh-4.jpg", "alt": { "vi": "Ảnh lễ cầu bến nước 4", "mnong": "Ảnh lễ cầu bến nước 4" } },
+        { "src": "/media/le-cung-ben-nuoc/anh-5.jpg", "alt": { "vi": "Ảnh lễ cầu bến nước 5", "mnong": "Ảnh lễ cầu bến nước 5" } }
+      ]
+    },
+    {
+      "id": "video-le-cung-ben-nuoc",
+      "type": "video",
+      "position": { "wall": "right", "slot": 1 },
+      "title": { "vi": "Video lễ cầu bến nước", "mnong": "Video lễ cầu bến nước" },
+      "youtubeId": "YjG_Si7xHVo"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "02-le-cau-mua",
+  "slug": "le-cau-mua",
+  "order": 2,
+  "name": { "vi": "Lễ cầu mùa", "mnong": "Lễ cầu mùa" },
+  "intro": {
+    "vi": "Lễ cầu mùa là nghi lễ truyền thống gắn với đời sống sản xuất nông nghiệp của đồng bào M’nông tại Đam Rông 4. Đây là dịp cộng đồng thể hiện niềm tin và mong ước về một mùa vụ thuận lợi, cuộc sống no đủ.",
+    "mnong": "Lễ cầu mùa là nghi lễ truyền thống gắn với đời sống sản xuất nông nghiệp của đồng bào M’nông tại Đam Rông 4. Đây là dịp cộng đồng thể hiện niềm tin và mong ước về một mùa vụ thuận lợi, cuộc sống no đủ."
+  },
+  "seo": {
+    "title": "Lễ cầu mùa của người M'Nông – Triển lãm số văn hóa",
+    "description": "Tìm hiểu lễ cầu mùa của người M'Nông qua ảnh, video và lời giới thiệu song ngữ Việt – M'Nông trong không gian nhà dài 3D.",
+    "image": "/media/share/le-cau-mua.jpg"
+  },
+  "exhibits": [
+    {
+      "id": "gioi-thieu",
+      "type": "board",
+      "position": { "wall": "left", "slot": 0 },
+      "title": { "vi": "Giới thiệu lễ cầu mùa", "mnong": "Giới thiệu lễ cầu mùa" },
+      "body": {
+        "vi": "## Ước vọng mùa màng – Gắn kết cộng đồng\n\n## 1. Khái quát\n\nLễ cầu mùa là nghi lễ truyền thống gắn với đời sống sản xuất nông nghiệp của đồng bào M’nông tại Đam Rông 4. Đây là dịp cộng đồng thể hiện niềm tin và mong ước về một mùa vụ thuận lợi, cuộc sống no đủ.\n\n## 2. Nguồn gốc và ý nghĩa\n\nNghi lễ bắt nguồn từ đời sống nông nghiệp và quan niệm tín ngưỡng dân gian, thể hiện lòng biết ơn đối với thiên nhiên, đồng thời cầu mong mưa thuận gió hòa, mùa màng tươi tốt, buôn làng bình an.\n\n## 3. Nghi thức và lễ vật\n\nTùy phong tục địa phương, lễ cầu mùa có thể bao gồm việc chuẩn bị lễ vật, thực hiện nghi thức cúng và những lời khấn cầu cho mùa vụ. Người chủ lễ thường là người am hiểu phong tục, có uy tín trong cộng đồng.\n\n## 4. Vai trò trong đời sống cộng đồng\n\nLễ cầu mùa là dịp để người dân cùng tham gia hoạt động văn hóa, thể hiện tinh thần đoàn kết, sự gắn bó với lao động sản xuất và thiên nhiên.\n\n## 5. Giá trị văn hóa\n\nNghi lễ chứa đựng những giá trị tín ngưỡng, lịch sử và tinh thần cộng đồng, phản ánh nét đẹp trong đời sống nông nghiệp và bản sắc văn hóa của người M’nông.\n\n## 6. Bảo tồn và phát huy\n\nViệc tìm hiểu, lưu giữ nghi lễ, truyền dạy phong tục cho thế hệ trẻ và giới thiệu các giá trị truyền thống thông qua hoạt động văn hóa, triển lãm số góp phần bảo tồn bản sắc M’nông tại Đam Rông 4.\n\n“Trân trọng thiên nhiên – Gìn giữ mùa vàng – Lưu truyền bản sắc M’nông.”",
+        "mnong": "## Ước vọng mùa màng – Gắn kết cộng đồng\n\n## 1. Khái quát\n\nLễ cầu mùa là nghi lễ truyền thống gắn với đời sống sản xuất nông nghiệp của đồng bào M’nông tại Đam Rông 4. Đây là dịp cộng đồng thể hiện niềm tin và mong ước về một mùa vụ thuận lợi, cuộc sống no đủ.\n\n## 2. Nguồn gốc và ý nghĩa\n\nNghi lễ bắt nguồn từ đời sống nông nghiệp và quan niệm tín ngưỡng dân gian, thể hiện lòng biết ơn đối với thiên nhiên, đồng thời cầu mong mưa thuận gió hòa, mùa màng tươi tốt, buôn làng bình an.\n\n## 3. Nghi thức và lễ vật\n\nTùy phong tục địa phương, lễ cầu mùa có thể bao gồm việc chuẩn bị lễ vật, thực hiện nghi thức cúng và những lời khấn cầu cho mùa vụ. Người chủ lễ thường là người am hiểu phong tục, có uy tín trong cộng đồng.\n\n## 4. Vai trò trong đời sống cộng đồng\n\nLễ cầu mùa là dịp để người dân cùng tham gia hoạt động văn hóa, thể hiện tinh thần đoàn kết, sự gắn bó với lao động sản xuất và thiên nhiên.\n\n## 5. Giá trị văn hóa\n\nNghi lễ chứa đựng những giá trị tín ngưỡng, lịch sử và tinh thần cộng đồng, phản ánh nét đẹp trong đời sống nông nghiệp và bản sắc văn hóa của người M’nông.\n\n## 6. Bảo tồn và phát huy\n\nViệc tìm hiểu, lưu giữ nghi lễ, truyền dạy phong tục cho thế hệ trẻ và giới thiệu các giá trị truyền thống thông qua hoạt động văn hóa, triển lãm số góp phần bảo tồn bản sắc M’nông tại Đam Rông 4.\n\n“Trân trọng thiên nhiên – Gìn giữ mùa vàng – Lưu truyền bản sắc M’nông.”"
+      }
+    },
+    {
+      "id": "anh-le-cau-mua",
+      "type": "gallery",
+      "position": { "wall": "right", "slot": 0 },
+      "title": { "vi": "Ảnh lễ cầu mùa", "mnong": "Ảnh lễ cầu mùa" },
+      "images": [
+        { "src": "/media/le-cau-mua/anh-8.jpg", "alt": { "vi": "Đồng bào M'Nông xã Đam Rông 4 tại buổi tái hiện lễ cầu mùa", "mnong": "Đồng bào M'Nông xã Đam Rông 4 tại buổi tái hiện lễ cầu mùa" } },
+        { "src": "/media/le-cau-mua/anh-1.jpg", "alt": { "vi": "Ảnh lễ cầu mùa 1", "mnong": "Ảnh lễ cầu mùa 1" } },
+        { "src": "/media/le-cau-mua/anh-2.jpg", "alt": { "vi": "Ảnh lễ cầu mùa 2", "mnong": "Ảnh lễ cầu mùa 2" } },
+        { "src": "/media/le-cau-mua/anh-3.jpg", "alt": { "vi": "Ảnh lễ cầu mùa 3", "mnong": "Ảnh lễ cầu mùa 3" } },
+        { "src": "/media/le-cau-mua/anh-4.jpg", "alt": { "vi": "Ảnh lễ cầu mùa 4", "mnong": "Ảnh lễ cầu mùa 4" } },
+        { "src": "/media/le-cau-mua/anh-5.jpg", "alt": { "vi": "Ảnh lễ cầu mùa 5", "mnong": "Ảnh lễ cầu mùa 5" } },
+        { "src": "/media/le-cau-mua/anh-6.jpg", "alt": { "vi": "Ảnh lễ cầu mùa 6", "mnong": "Ảnh lễ cầu mùa 6" } },
+        { "src": "/media/le-cau-mua/anh-7.jpg", "alt": { "vi": "Ảnh lễ cầu mùa 7", "mnong": "Ảnh lễ cầu mùa 7" } },
+        { "src": "/media/le-cau-mua/anh-9.jpg", "alt": { "vi": "Lễ vật bày trước nhà dài trong lễ cầu mùa", "mnong": "Lễ vật bày trước nhà dài trong lễ cầu mùa" } },
+        { "src": "/media/le-cau-mua/anh-10.jpg", "alt": { "vi": "Nghi thức khấn cầu trong lễ cầu mùa", "mnong": "Nghi thức khấn cầu trong lễ cầu mùa" } }
+      ]
+    },
+    {
+      "id": "video-le-cau-mua",
+      "type": "video",
+      "position": { "wall": "right", "slot": 1 },
+      "title": { "vi": "Video giới thiệu lễ cầu mùa", "mnong": "Video giới thiệu lễ cầu mùa" },
+      "youtubeId": "LXVMfhygj9w"
+    }
+  ]
+}

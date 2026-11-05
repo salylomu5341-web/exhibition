@@ -1,0 +1,47 @@
+{
+  "id": "04-le-bao-hieu",
+  "slug": "le-bao-hieu",
+  "order": 4,
+  "name": { "vi": "Lễ báo hiếu", "mnong": "Lễ báo hiếu" },
+  "intro": {
+    "vi": "Giữa những nét đẹp văn hóa truyền thống của đồng bào dân tộc M’nông tại Đam Rông 4, phong tục báo hiếu mang ý nghĩa nhân văn sâu sắc, thể hiện lòng biết ơn, sự kính trọng và tình yêu thương đối với cha mẹ, ông bà.",
+    "mnong": "Giữa những nét đẹp văn hóa truyền thống của đồng bào dân tộc M’nông tại Đam Rông 4, phong tục báo hiếu mang ý nghĩa nhân văn sâu sắc, thể hiện lòng biết ơn, sự kính trọng và tình yêu thương đối với cha mẹ, ông bà."
+  },
+  "seo": {
+    "title": "Lễ báo hiếu của người M'Nông – Triển lãm số văn hóa",
+    "description": "Lễ báo hiếu của người M'Nông: ảnh, video và lời giới thiệu song ngữ Việt – M'Nông trong không gian nhà dài 3D.",
+    "image": "/media/share/le-bao-hieu.jpg"
+  },
+  "exhibits": [
+    {
+      "id": "gioi-thieu",
+      "type": "board",
+      "position": { "wall": "left", "slot": 0 },
+      "title": { "vi": "Giới thiệu lễ báo hiếu", "mnong": "Giới thiệu lễ báo hiếu" },
+      "body": {
+        "vi": "Thông điệp: Uống nước nhớ nguồn – Trân trọng tình thân – Gìn giữ bản sắc văn hóa.\n\nGiữa những nét đẹp văn hóa truyền thống của đồng bào dân tộc M’nông tại Đam Rông 4, phong tục báo hiếu mang ý nghĩa nhân văn sâu sắc, thể hiện lòng biết ơn, sự kính trọng và tình yêu thương đối với cha mẹ, ông bà.\n\nĐây không chỉ là dịp để con cháu bày tỏ tình cảm với những người đã sinh thành, nuôi dưỡng mình mà còn góp phần giáo dục các thế hệ về đạo lý uống nước nhớ nguồn, gìn giữ tình cảm gia đình và những giá trị tốt đẹp của dân tộc.\n\nHãy cùng chúng em tìm hiểu về ý nghĩa và nét đẹp của phong tục báo hiếu trong đời sống văn hóa người M’nông!",
+        "mnong": "Thông điệp: Uống nước nhớ nguồn – Trân trọng tình thân – Gìn giữ bản sắc văn hóa.\n\nGiữa những nét đẹp văn hóa truyền thống của đồng bào dân tộc M’nông tại Đam Rông 4, phong tục báo hiếu mang ý nghĩa nhân văn sâu sắc, thể hiện lòng biết ơn, sự kính trọng và tình yêu thương đối với cha mẹ, ông bà.\n\nĐây không chỉ là dịp để con cháu bày tỏ tình cảm với những người đã sinh thành, nuôi dưỡng mình mà còn góp phần giáo dục các thế hệ về đạo lý uống nước nhớ nguồn, gìn giữ tình cảm gia đình và những giá trị tốt đẹp của dân tộc.\n\nHãy cùng chúng em tìm hiểu về ý nghĩa và nét đẹp của phong tục báo hiếu trong đời sống văn hóa người M’nông!"
+      }
+    },
+    {
+      "id": "anh-le-bao-hieu",
+      "type": "gallery",
+      "position": { "wall": "right", "slot": 0 },
+      "title": { "vi": "Ảnh lễ báo hiếu", "mnong": "Ảnh lễ báo hiếu" },
+      "images": [
+        { "src": "/media/le-bao-hieu/anh-1.jpg", "alt": { "vi": "Ảnh lễ báo hiếu 1", "mnong": "Ảnh lễ báo hiếu 1" } },
+        { "src": "/media/le-bao-hieu/anh-2.jpg", "alt": { "vi": "Ảnh lễ báo hiếu 2", "mnong": "Ảnh lễ báo hiếu 2" } },
+        { "src": "/media/le-bao-hieu/anh-3.jpg", "alt": { "vi": "Ảnh lễ báo hiếu 3", "mnong": "Ảnh lễ báo hiếu 3" } },
+        { "src": "/media/le-bao-hieu/anh-4.jpg", "alt": { "vi": "Ảnh lễ báo hiếu 4", "mnong": "Ảnh lễ báo hiếu 4" } },
+        { "src": "/media/le-bao-hieu/anh-5.jpg", "alt": { "vi": "Ảnh lễ báo hiếu 5", "mnong": "Ảnh lễ báo hiếu 5" } }
+      ]
+    },
+    {
+      "id": "video-le-bao-hieu",
+      "type": "video",
+      "position": { "wall": "right", "slot": 1 },
+      "title": { "vi": "Video lễ báo hiếu", "mnong": "Video lễ báo hiếu" },
+      "youtubeId": "I3ElbF3vqkU"
+    }
+  ]
+}

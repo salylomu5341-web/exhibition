@@ -1,0 +1,38 @@
+/* Sách 3D lật (/sach/) */
+body.mode-book { overflow: hidden; height: 100%; }
+
+#book-stage {
+  position: fixed; inset: 0; z-index: 1;
+  display: flex; align-items: center; justify-content: center;
+  padding: calc(max(10px, env(safe-area-inset-top)) + 58px) 12px calc(max(12px, env(safe-area-inset-bottom)) + 68px);
+  background: radial-gradient(ellipse at center, #6b4a2bcc, #2a1d10f2), url(/media/textures/wood.jpg) center / 512px;
+}
+#book-stage:empty::after { content: "Đang mở sách…"; color: var(--cream); font-size: 16px; }
+
+.book-frame { position: relative; max-width: 100%; filter: drop-shadow(0 14px 28px #000a); transition: transform 0.45s ease; }
+.book-block .page { background: #f7efdf; overflow: hidden; user-select: none; }
+/* Tờ A4 giữ nguyên cỡ gốc rồi thu theo bề rộng trang (--sheet-k do BookView đặt). */
+.book-block .page .sheet { position: absolute; top: 0; left: 0; transform: scale(var(--sheet-k, 1)); transform-origin: 0 0; }
+/* page-flip chỉ cho bấm xuyên khi đích bấm chính là thẻ a/button, nên phần bên trong link không nhận bấm. */
+.book-block .page .sheet a * { pointer-events: none; }
+
+.book-bar .rb-current { color: #fff; padding: 10px 12px; border-radius: 999px; font-size: 14px; font-variant-numeric: tabular-nums; }
+.book-bar button { min-width: 52px; font-size: 16px; }
+
+.book-hint {
+  position: fixed; left: 50%; transform: translateX(-50%); margin: 0;
+  bottom: calc(max(12px, env(safe-area-inset-bottom)) + 64px);
+  background: #000a; color: #fff; font-size: 13px; padding: 6px 14px; border-radius: 999px;
+  white-space: nowrap; pointer-events: none;
+}
+
+/* Mục lục */
+.toc-list { list-style: none; margin: 0 0 8px; padding: 0; }
+.toc-item {
+  display: flex; width: 100%; gap: 12px; justify-content: space-between; align-items: center; text-align: left;
+  border: 0; border-bottom: 1px solid #0001; background: none; font: inherit; color: var(--ink);
+  padding: 12px 4px; min-height: 48px; cursor: pointer;
+}
+.toc-item:hover { background: var(--cream); }
+.toc-page { color: var(--muted); font-variant-numeric: tabular-nums; }
+.toc-home { margin: 20px 0 0; text-align: center; }

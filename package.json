@@ -1,0 +1,39 @@
+{
+  "name": "trien-lam-mnong",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "assets": "tsx scripts/gen-placeholders.ts",
+    "gong-model": "tsx scripts/gen-gong-model.ts",
+    "check:content": "tsx scripts/check-content.ts",
+    "content:pull": "tsx scripts/pull-content.ts",
+    "content:push": "tsx scripts/push-content.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsx scripts/check-site-url.ts && npm run check:content && tsc --noEmit && vite build && tsx scripts/build-pages.ts",
+    "build:preview": "tsx scripts/check-site-url.ts --allow-placeholder-url && npm run check:content && tsc --noEmit && vite build && tsx scripts/build-pages.ts --allow-placeholder-url",
+    "preview": "vite preview --port 4173 --strictPort",
+    "qr": "tsx scripts/gen-qr.ts",
+    "qr:preview": "tsx scripts/gen-qr.ts --allow-placeholder-url",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "dependencies": {
+    "page-flip": "2.0.7",
+    "qrcode": "1.5.4",
+    "three": "0.176.0",
+    "zod": "3.24.2"
+  },
+  "devDependencies": {
+    "@napi-rs/canvas": "0.1.65",
+    "@playwright/test": "1.52.0",
+    "@types/node": "22.10.2",
+    "@types/qrcode": "1.5.5",
+    "@types/three": "0.176.0",
+    "tsx": "4.19.4",
+    "typescript": "5.8.3",
+    "vite": "6.3.5",
+    "vitest": "3.1.3"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "id": "01-cong-chieng",
+  "slug": "cong-chieng",
+  "order": 1,
+  "name": { "vi": "Văn hóa cồng chiêng", "mnong": "Văn hóa cồng chiêng" },
+  "intro": {
+    "vi": "Cồng chiêng là một trong những loại nhạc cụ truyền thống tiêu biểu của các dân tộc Tây Nguyên, trong đó có dân tộc M’nông. Đối với đồng bào M’nông, cồng chiêng không đơn thuần là nhạc cụ tạo ra âm thanh mà còn là một phần quan trọng trong đời sống văn hóa, tinh thần và sinh hoạt cộng đồng.",
+    "mnong": "Cồng chiêng là một trong những loại nhạc cụ truyền thống tiêu biểu của các dân tộc Tây Nguyên, trong đó có dân tộc M’nông. Đối với đồng bào M’nông, cồng chiêng không đơn thuần là nhạc cụ tạo ra âm thanh mà còn là một phần quan trọng trong đời sống văn hóa, tinh thần và sinh hoạt cộng đồng."
+  },
+  "seo": {
+    "title": "Cồng chiêng của người M'Nông – Triển lãm số văn hóa",
+    "description": "Gian cồng chiêng trong nhà dài 3D: bấm nghe tiếng 6 loại chiêng, xem ảnh, video và đọc giới thiệu song ngữ Việt – M'Nông.",
+    "image": "/media/share/cong-chieng.jpg"
+  },
+  "exhibits": [
+    {
+      "id": "gioi-thieu",
+      "type": "board",
+      "position": { "wall": "left", "slot": 0 },
+      "title": { "vi": "Giới thiệu cồng chiêng", "mnong": "Giới thiệu cồng chiêng" },
+      "body": {
+        "vi": "## Âm vang đại ngàn – Hồn thiêng văn hóa\n\n## 1. Khái quát về văn hóa cồng chiêng\n\nCồng chiêng là một trong những loại nhạc cụ truyền thống tiêu biểu của các dân tộc Tây Nguyên, trong đó có dân tộc M’nông. Đối với đồng bào M’nông, cồng chiêng không đơn thuần là nhạc cụ tạo ra âm thanh mà còn là một phần quan trọng trong đời sống văn hóa, tinh thần và sinh hoạt cộng đồng.\n\nTiếng cồng chiêng gắn bó với buôn làng, với những dịp lễ hội, nghi lễ truyền thống và các sự kiện quan trọng trong đời sống. Qua từng nhịp chiêng, người M’nông thể hiện niềm vui, lòng biết ơn, sự gắn kết cộng đồng và tình yêu đối với quê hương, núi rừng.\n\n## 2. Cấu tạo và đặc điểm của cồng chiêng\n\nCồng chiêng thường được chế tác từ kim loại, có hình dáng tròn, mặt chiêng và phần vành. Tùy từng loại, chiêng có thể có núm ở giữa hoặc mặt phẳng.\n\nMỗi chiếc chiêng có kích thước, hình dáng và âm sắc riêng. Khi kết hợp nhiều chiếc chiêng, người chơi có thể tạo nên những giai điệu và tiết tấu phong phú.\n\nCồng chiêng thường được biểu diễn theo bộ, với nhiều người cùng tham gia. Mỗi người đảm nhận một chiếc chiêng hoặc một phần nhịp điệu, phối hợp với nhau để tạo nên âm thanh hài hòa.\n\n## 3. Vai trò của cồng chiêng trong đời sống người M’nông\n\nCồng chiêng hiện diện trong nhiều hoạt động văn hóa và sinh hoạt cộng đồng của người M’nông:\n\n+ Trong các nghi lễ truyền thống: Tiếng chiêng được sử dụng trong một số nghi lễ gắn với đời sống tín ngưỡng, mùa vụ và phong tục của cộng đồng.\n\n+ Trong lễ hội: Cồng chiêng góp phần tạo nên không khí trang trọng, vui tươi và sôi nổi trong các dịp sinh hoạt văn hóa.\n\n+ Trong đời sống cộng đồng: Tiếng chiêng là phương tiện kết nối mọi người, thể hiện tinh thần đoàn kết và sự gắn bó giữa các thành viên trong buôn làng.\n\n+ Trong việc trao truyền văn hóa: Nghệ thuật diễn tấu cồng chiêng được truyền dạy qua các thế hệ, góp phần duy trì bản sắc văn hóa dân tộc.\n\n## 4. Nghệ thuật diễn tấu cồng chiêng\n\nDiễn tấu cồng chiêng là hoạt động mang tính tập thể, đòi hỏi sự phối hợp nhịp nhàng giữa những người tham gia. Người chơi cần nắm được nhịp điệu, cách đánh và vị trí của mình trong cả dàn chiêng.\n\nÂm thanh cồng chiêng có thể mạnh mẽ, rộn ràng hoặc trầm lắng tùy theo mục đích sử dụng và từng dịp sinh hoạt. Trong nhiều hoạt động văn hóa, tiếng chiêng còn kết hợp với tiếng trống, điệu múa và trang phục truyền thống, tạo nên một không gian nghệ thuật đặc sắc.\n\n## 5. Cồng chiêng trong lễ hội và phong tục truyền thống\n\nTrong đời sống văn hóa M’nông, cồng chiêng có mối liên hệ với nhiều nghi lễ và lễ hội truyền thống. Tiếng chiêng có thể vang lên trong những dịp cầu mong mùa màng thuận lợi, tạ ơn thiên nhiên, mừng các sự kiện quan trọng hoặc tổ chức sinh hoạt cộng đồng.\n\nMỗi nghi lễ có thể có cách sử dụng nhạc cụ và hình thức diễn tấu riêng. Vì vậy, việc tìm hiểu cồng chiêng cần đặt trong bối cảnh phong tục cụ thể của từng cộng đồng M’nông, tránh xem mọi buôn làng đều có cách thực hành giống nhau.\n\n## 6. Giá trị văn hóa của cồng chiêng\n\nVăn hóa cồng chiêng chứa đựng nhiều giá trị quan trọng:\n\n+ Giá trị lịch sử: Lưu giữ những dấu ấn văn hóa được trao truyền qua nhiều thế hệ.\n\n+ Giá trị nghệ thuật: Thể hiện sự sáng tạo trong chế tác nhạc cụ, phối hợp âm thanh và diễn tấu tập thể.\n\n+ Giá trị cộng đồng: Gắn kết các thành viên trong buôn làng thông qua hoạt động chung.\n\n+ Giá trị tinh thần: Thể hiện tình cảm, niềm tin và quan niệm sống của cộng đồng.\n\n+ Giá trị giáo dục: Giúp thế hệ trẻ hiểu hơn về truyền thống, lòng tự hào dân tộc và trách nhiệm gìn giữ di sản.\n\nKhông gian văn hóa cồng chiêng Tây Nguyên đã được UNESCO ghi danh là Kiệt tác di sản truyền khẩu và phi vật thể của nhân loại năm 2005, sau đó được chuyển vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại năm 2008.\n\n## 7. Thực trạng và công tác bảo tồn\n\nNgày nay, trước những thay đổi của đời sống xã hội, việc duy trì hoạt động diễn tấu và truyền dạy cồng chiêng ở một số cộng đồng gặp không ít khó khăn. Một bộ phận thanh thiếu niên chưa có nhiều cơ hội tiếp xúc, học hỏi và thực hành nghệ thuật cồng chiêng.\n\nĐể bảo tồn di sản, cần khuyến khích nghệ nhân truyền dạy cho thế hệ trẻ; tổ chức các hoạt động giao lưu, biểu diễn và trải nghiệm; đồng thời lưu giữ hình ảnh, âm thanh, tư liệu về cồng chiêng một cách khoa học và có sự đồng thuận của cộng đồng.\n\n## 8. Trải nghiệm tại không gian triển lãm\n\nĐến với sảnh văn hóa cồng chiêng, quý khách có thể tìm hiểu hình ảnh, đặc điểm, ý nghĩa và vai trò của cồng chiêng trong đời sống người M’nông. Thông qua các tư liệu trực quan và trải nghiệm tương tác, người tham quan có cơ hội khám phá sâu hơn về loại hình nhạc cụ truyền thống đặc sắc này.\n\n## 9. Thông điệp bảo tồn\n\nCồng chiêng không chỉ là âm thanh của núi rừng mà còn là tiếng nói của lịch sử, ký ức và bản sắc cộng đồng M’nông. Mỗi người, đặc biệt là thế hệ trẻ, hãy cùng tìm hiểu, trân trọng và góp phần gìn giữ những giá trị văn hóa quý báu ấy để âm vang cồng chiêng tiếp tục được truyền lại cho các thế hệ mai sau.\n\n“Giữ gìn tiếng chiêng hôm nay – Gìn giữ bản sắc văn hóa ngày mai.”",
+        "mnong": "## Âm vang đại ngàn – Hồn thiêng văn hóa\n\n## 1. Khái quát về văn hóa cồng chiêng\n\nCồng chiêng là một trong những loại nhạc cụ truyền thống tiêu biểu của các dân tộc Tây Nguyên, trong đó có dân tộc M’nông. Đối với đồng bào M’nông, cồng chiêng không đơn thuần là nhạc cụ tạo ra âm thanh mà còn là một phần quan trọng trong đời sống văn hóa, tinh thần và sinh hoạt cộng đồng.\n\nTiếng cồng chiêng gắn bó với buôn làng, với những dịp lễ hội, nghi lễ truyền thống và các sự kiện quan trọng trong đời sống. Qua từng nhịp chiêng, người M’nông thể hiện niềm vui, lòng biết ơn, sự gắn kết cộng đồng và tình yêu đối với quê hương, núi rừng.\n\n## 2. Cấu tạo và đặc điểm của cồng chiêng\n\nCồng chiêng thường được chế tác từ kim loại, có hình dáng tròn, mặt chiêng và phần vành. Tùy từng loại, chiêng có thể có núm ở giữa hoặc mặt phẳng.\n\nMỗi chiếc chiêng có kích thước, hình dáng và âm sắc riêng. Khi kết hợp nhiều chiếc chiêng, người chơi có thể tạo nên những giai điệu và tiết tấu phong phú.\n\nCồng chiêng thường được biểu diễn theo bộ, với nhiều người cùng tham gia. Mỗi người đảm nhận một chiếc chiêng hoặc một phần nhịp điệu, phối hợp với nhau để tạo nên âm thanh hài hòa.\n\n## 3. Vai trò của cồng chiêng trong đời sống người M’nông\n\nCồng chiêng hiện diện trong nhiều hoạt động văn hóa và sinh hoạt cộng đồng của người M’nông:\n\n+ Trong các nghi lễ truyền thống: Tiếng chiêng được sử dụng trong một số nghi lễ gắn với đời sống tín ngưỡng, mùa vụ và phong tục của cộng đồng.\n\n+ Trong lễ hội: Cồng chiêng góp phần tạo nên không khí trang trọng, vui tươi và sôi nổi trong các dịp sinh hoạt văn hóa.\n\n+ Trong đời sống cộng đồng: Tiếng chiêng là phương tiện kết nối mọi người, thể hiện tinh thần đoàn kết và sự gắn bó giữa các thành viên trong buôn làng.\n\n+ Trong việc trao truyền văn hóa: Nghệ thuật diễn tấu cồng chiêng được truyền dạy qua các thế hệ, góp phần duy trì bản sắc văn hóa dân tộc.\n\n## 4. Nghệ thuật diễn tấu cồng chiêng\n\nDiễn tấu cồng chiêng là hoạt động mang tính tập thể, đòi hỏi sự phối hợp nhịp nhàng giữa những người tham gia. Người chơi cần nắm được nhịp điệu, cách đánh và vị trí của mình trong cả dàn chiêng.\n\nÂm thanh cồng chiêng có thể mạnh mẽ, rộn ràng hoặc trầm lắng tùy theo mục đích sử dụng và từng dịp sinh hoạt. Trong nhiều hoạt động văn hóa, tiếng chiêng còn kết hợp với tiếng trống, điệu múa và trang phục truyền thống, tạo nên một không gian nghệ thuật đặc sắc.\n\n## 5. Cồng chiêng trong lễ hội và phong tục truyền thống\n\nTrong đời sống văn hóa M’nông, cồng chiêng có mối liên hệ với nhiều nghi lễ và lễ hội truyền thống. Tiếng chiêng có thể vang lên trong những dịp cầu mong mùa màng thuận lợi, tạ ơn thiên nhiên, mừng các sự kiện quan trọng hoặc tổ chức sinh hoạt cộng đồng.\n\nMỗi nghi lễ có thể có cách sử dụng nhạc cụ và hình thức diễn tấu riêng. Vì vậy, việc tìm hiểu cồng chiêng cần đặt trong bối cảnh phong tục cụ thể của từng cộng đồng M’nông, tránh xem mọi buôn làng đều có cách thực hành giống nhau.\n\n## 6. Giá trị văn hóa của cồng chiêng\n\nVăn hóa cồng chiêng chứa đựng nhiều giá trị quan trọng:\n\n+ Giá trị lịch sử: Lưu giữ những dấu ấn văn hóa được trao truyền qua nhiều thế hệ.\n\n+ Giá trị nghệ thuật: Thể hiện sự sáng tạo trong chế tác nhạc cụ, phối hợp âm thanh và diễn tấu tập thể.\n\n+ Giá trị cộng đồng: Gắn kết các thành viên trong buôn làng thông qua hoạt động chung.\n\n+ Giá trị tinh thần: Thể hiện tình cảm, niềm tin và quan niệm sống của cộng đồng.\n\n+ Giá trị giáo dục: Giúp thế hệ trẻ hiểu hơn về truyền thống, lòng tự hào dân tộc và trách nhiệm gìn giữ di sản.\n\nKhông gian văn hóa cồng chiêng Tây Nguyên đã được UNESCO ghi danh là Kiệt tác di sản truyền khẩu và phi vật thể của nhân loại năm 2005, sau đó được chuyển vào Danh sách Di sản văn hóa phi vật thể đại diện của nhân loại năm 2008.\n\n## 7. Thực trạng và công tác bảo tồn\n\nNgày nay, trước những thay đổi của đời sống xã hội, việc duy trì hoạt động diễn tấu và truyền dạy cồng chiêng ở một số cộng đồng gặp không ít khó khăn. Một bộ phận thanh thiếu niên chưa có nhiều cơ hội tiếp xúc, học hỏi và thực hành nghệ thuật cồng chiêng.\n\nĐể bảo tồn di sản, cần khuyến khích nghệ nhân truyền dạy cho thế hệ trẻ; tổ chức các hoạt động giao lưu, biểu diễn và trải nghiệm; đồng thời lưu giữ hình ảnh, âm thanh, tư liệu về cồng chiêng một cách khoa học và có sự đồng thuận của cộng đồng.\n\n## 8. Trải nghiệm tại không gian triển lãm\n\nĐến với sảnh văn hóa cồng chiêng, quý khách có thể tìm hiểu hình ảnh, đặc điểm, ý nghĩa và vai trò của cồng chiêng trong đời sống người M’nông. Thông qua các tư liệu trực quan và trải nghiệm tương tác, người tham quan có cơ hội khám phá sâu hơn về loại hình nhạc cụ truyền thống đặc sắc này.\n\n## 9. Thông điệp bảo tồn\n\nCồng chiêng không chỉ là âm thanh của núi rừng mà còn là tiếng nói của lịch sử, ký ức và bản sắc cộng đồng M’nông. Mỗi người, đặc biệt là thế hệ trẻ, hãy cùng tìm hiểu, trân trọng và góp phần gìn giữ những giá trị văn hóa quý báu ấy để âm vang cồng chiêng tiếp tục được truyền lại cho các thế hệ mai sau.\n\n“Giữ gìn tiếng chiêng hôm nay – Gìn giữ bản sắc văn hóa ngày mai.”"
+      },
+      "narration": { "vi": "/media/cong-chieng/thuyet-minh-vi.wav", "mnong": "/media/cong-chieng/thuyet-minh-mnong.wav" }
+    },
+    {
+      "id": "bo-chieng",
+      "type": "gongs",
+      "position": { "wall": "left", "slot": 1 },
+      "title": { "vi": "Sáu loại chiêng", "mnong": "Sáu loại chiêng" },
+      "gongs": [
+        { "name": { "vi": "Chiêng mẹ (Cing me)", "mnong": "Cing me" }, "image": "/media/cong-chieng/chieng-1.png", "sound": "/media/cong-chieng/chieng-1.mp4" },
+        { "name": { "vi": "Chiêng con 1 (Rơ Nul)", "mnong": "Rơ Nul" }, "image": "/media/cong-chieng/chieng-2.png", "sound": "/media/cong-chieng/chieng-2.mp4" },
+        { "name": { "vi": "Chiêng con 2 (Mbòp)", "mnong": "Mbòp" }, "image": "/media/cong-chieng/chieng-3.png", "sound": "/media/cong-chieng/chieng-3.wav" },
+        { "name": { "vi": "Chiêng con 3 (Ntòm)", "mnong": "Ntòm" }, "image": "/media/cong-chieng/chieng-4.png", "sound": "/media/cong-chieng/chieng-4.mp4" },
+        { "name": { "vi": "Chiêng con 4 (Nthơ)", "mnong": "Nthơ" }, "image": "/media/cong-chieng/chieng-5.png", "sound": "/media/cong-chieng/chieng-5.mp4" },
+        { "name": { "vi": "Chiêng con 5 (Ntit)", "mnong": "Ntit" }, "image": "/media/cong-chieng/chieng-6.png", "sound": "/media/cong-chieng/chieng-6.mp4" }
+      ]
+    },
+    {
+      "id": "chieng-mau",
+      "type": "ar",
+      "position": { "wall": "left", "slot": 2 },
+      "title": { "vi": "Chiêng mẫu 3D", "mnong": "Chiêng mẫu 3D" },
+      "body": {
+        "vi": "Xoay để xem chiếc chiêng từ mọi phía. Trên điện thoại hỗ trợ AR, bấm \"Xem AR\" để đặt chiêng vào không gian thật quanh bạn.",
+        "mnong": "Xoay để xem chiếc chiêng từ mọi phía. Trên điện thoại hỗ trợ AR, bấm \"Xem AR\" để đặt chiêng vào không gian thật quanh bạn."
+      },
+      "glb": "/media/cong-chieng/chieng-mau.glb",
+      "poster": "/media/cong-chieng/chieng-1.png"
+    },
+    {
+      "id": "anh-cong-chieng",
+      "type": "gallery",
+      "position": { "wall": "right", "slot": 0 },
+      "title": { "vi": "Ảnh cồng chiêng", "mnong": "Ảnh cồng chiêng" },
+      "images": [
+        { "src": "/media/cong-chieng/anh-1.jpg", "alt": { "vi": "Ảnh cồng chiêng 1", "mnong": "Ảnh cồng chiêng 1" } },
+        { "src": "/media/cong-chieng/anh-2.jpg", "alt": { "vi": "Ảnh cồng chiêng 2", "mnong": "Ảnh cồng chiêng 2" } },
+        { "src": "/media/cong-chieng/anh-3.jpg", "alt": { "vi": "Ảnh cồng chiêng 3", "mnong": "Ảnh cồng chiêng 3" } },
+        { "src": "/media/cong-chieng/anh-4.jpg", "alt": { "vi": "Ảnh cồng chiêng 4", "mnong": "Ảnh cồng chiêng 4" } },
+        { "src": "/media/cong-chieng/anh-8.jpg", "alt": { "vi": "Nghệ nhân M'Nông đánh chiêng", "mnong": "Nghệ nhân M'Nông đánh chiêng" } },
+        { "src": "/media/cong-chieng/anh-5.jpg", "alt": { "vi": "Ảnh cồng chiêng 5", "mnong": "Ảnh cồng chiêng 5" } },
+        { "src": "/media/cong-chieng/anh-9.jpg", "alt": { "vi": "Bộ chiêng treo trên giá gỗ", "mnong": "Bộ chiêng treo trên giá gỗ" } },
+        { "src": "/media/cong-chieng/anh-6.jpg", "alt": { "vi": "Ảnh cồng chiêng 6", "mnong": "Ảnh cồng chiêng 6" } },
+        { "src": "/media/cong-chieng/anh-7.jpg", "alt": { "vi": "Ảnh cồng chiêng 7", "mnong": "Ảnh cồng chiêng 7" } }
+      ]
+    },
+    {
+      "id": "video-cong-chieng",
+      "type": "video",
+      "position": { "wall": "right", "slot": 1 },
+      "title": { "vi": "Video thuyết minh sảnh cồng chiêng", "mnong": "Video thuyết minh sảnh cồng chiêng" },
+      "youtubeId": "NhwifA4SROI"
+    },
+    {
+      "id": "video-sanh-cong-chieng",
+      "type": "video",
+      "position": { "wall": "right", "slot": 2 },
+      "title": { "vi": "Video sảnh cồng chiêng", "mnong": "Video sảnh cồng chiêng" },
+      "youtubeId": "RFg18Z2cIy4"
+    }
+  ]
+}
